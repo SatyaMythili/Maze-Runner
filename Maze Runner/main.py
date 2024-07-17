@@ -15,7 +15,7 @@ printing = [[-1,1],[1,1],[-1,-0.85],[1,-0.85]]
 printing2 = [[-1,1],[1,1],[-1,-0.85],[1,-0.85]]
 sem = threading.Semaphore()
 
-answers = []
+answers = [] 
 myPen = []
 rewards = []
 previous = []
