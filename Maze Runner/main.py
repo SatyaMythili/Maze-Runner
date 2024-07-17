@@ -2,7 +2,7 @@ import turtle
 import time
 import threading
 import random
-from mttkinter import *
+from mttkinter import * 
 
 number = 4
 screen = turtle.Screen()
